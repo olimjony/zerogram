@@ -1,0 +1,6 @@
+@zerogram_HostAddress = http://localhost:5051
+
+GET {{zerogram_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
